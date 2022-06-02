@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- https://badge42.vercel.app/api/v2/cl3vffdbc002609jy3rk58js7/stats?cursusId=21&coalitionId=75 -->
-[![faljaoui's 42 stats](https://badge42.vercel.app/api/v2/cl3vffdbc002609jy3rk58js7/stats?cursusId=21&coalitionId=75)](https://github.com/JaeSeoKim/badge42)
+
+<p align="center">
+  <a href="https://github.com/successfulfadwa">
+    <img src="https://badge42.vercel.app/api/v2/cl3vffdbc002609jy3rk58js7/stats?cursusId=21&coalitionId=75">
+  </a>
+</p>
 
 
 <p align="center">
