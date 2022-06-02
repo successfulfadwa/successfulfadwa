@@ -24,7 +24,12 @@ Here are some ideas to get you started:
 
 * User Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=successfulfadwa&theme=slateorange&show_icons=true)<p >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=successfulfadwa&theme=slateorange&show_icons=true)
+
+<p align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=successfulfadwa&theme=slateorange&show_icons=true)
+</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=successfulfadwa&theme=slateorange&show_icons=true)
+<p >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=successfulfadwa&theme=slateorange&show_icons=true)
   
 
 <p align="center">
