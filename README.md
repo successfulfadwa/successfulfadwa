@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<p align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=successfulfadwa&theme=slateorange&show_icons=true)<p >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=successfulfadwa&theme=slateorange&show_icons=true)] 
+  
   <a href="https://github.com/successfulfadwa">
     <img src="https://badge42.vercel.app/api/v2/cl3vffdbc002609jy3rk58js7/stats?cursusId=21&coalitionId=75">
   </a>
