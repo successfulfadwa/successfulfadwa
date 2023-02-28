@@ -27,12 +27,21 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=successfulfadwa&theme=slateorange&show_icons=true)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=successfulfadwa&theme=slateorange&show_icons=true)
 
-  - name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.2.1
-
-
-<p align="center">
-  <a href="https://github.com/successfulfadwa">
-    <img src="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake.svg">
-  </a>
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+    "
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
