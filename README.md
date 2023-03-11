@@ -1,5 +1,9 @@
 ### Hi there 👋
+<a href="https://www.linkedin.com/in/fadwa-aljaoui-5846b523b/" target="_blank">
+  <img align="left" alt="Fadwa's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=hazimar)
 <!--
 **successfulfadwa/successfulfadwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
