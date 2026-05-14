@@ -1,107 +1,110 @@
-<div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Platinum AI — void, chrome, and glow. Tagline: From dream to browser, accessible by default." />
-</div>
+<!-- Profile README: images use raw.githubusercontent.com so they render even if relative paths fail. -->
+
+<!-- PUBLIC_ASSET_BASE: https://raw.githubusercontent.com/successfulfadwa/successfulfadwa/main -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=3800&pause=900&color=C4B5FD&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Platinum+AI+%C2%B7+Dream+to+browser%2C+production-ready.;Accessibility-first+interfaces+for+medical%2C+med+spa%2C+%26+real+estate.;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Tailwind+%C2%B7+C%23" alt="Animated typing: Platinum AI taglines and stack." />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=18&duration=3400&pause=800&color=94A3B8&center=true&vCenter=true&multiline=true&width=880&height=78&lines=WCAG+2.1+AA+audits+%C2%B7+remediation+%C2%B7+design+systems.;Shipped+interfaces%2C+measurable+performance%2C+maintainable+components.;Open+to+select+DFW+%26+remote+partnerships." alt="Animated typing: services and partnerships." />
-</div>
+<img src="https://raw.githubusercontent.com/successfulfadwa/successfulfadwa/main/assets/hero.svg" width="100%" alt="Platinum AI banner: void background, platinum chrome lines, liquid violet-cyan accents, tagline From dream to browser." />
 
-<div align="center">
-  <a href="https://github.com/successfulfadwa"><img src="https://komarev.com/ghpvc/?username=successfulfadwa&label=profile+signal&labelColor=1a102f&color=c4b5fd&style=for-the-badge" alt="Profile views: approximate count of README visits (third-party badge)." /></a>
-</div>
+<br/>
 
-<br />
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=24&duration=3600&pause=900&color=C4B5FD&center=true&vCenter=true&multiline=true&width=1000&height=110&lines=Platinum+AI+%E2%80%94+engineering+elegance+at+the+edge+of+the+web.;Futuristic+interfaces+with+ADA+2.1+AA+as+a+floor%2C+not+an+afterthought.;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Tailwind+%C2%B7+C%23" alt="Animated typing: headline, accessibility, stack." />
 
-<div align="center">
-  <a href="https://www.Aljaoui.com"><strong>Interactive lab</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/successfulfadwa?tab=repositories"><strong>Repositories</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/successfulfadwa"><strong>LinkedIn</strong></a>
-</div>
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=17&duration=3200&pause=750&color=94A3B8&center=true&vCenter=true&multiline=true&width=1000&height=88&lines=Medical+%C2%B7+med+spa+%C2%B7+real+estate+%E2%80%94+premium+front+ends+that+convert.;WCAG+audits%2C+remediation%2C+design+systems%2C+and+shipping+to+production.;Select+DFW+%26+remote+partnerships." alt="Animated typing: verticals and services." />
 
-<br />
+<br/>
 
-<div align="center">
-  <img src="assets/github-snake.gif" width="900" alt="Animated GIF: snake on your GitHub contribution grid (platinum palette)." />
-</div>
+<a href="https://github.com/successfulfadwa"><img src="https://komarev.com/ghpvc/?username=successfulfadwa&label=signal&labelColor=1a102f&color=c4b5fd&style=for-the-badge" alt="Profile visits badge" /></a>
+<img src="https://img.shields.io/badge/WCAG-2.1%20AA-floor-c4b5fd?style=for-the-badge&labelColor=1a102f" alt="WCAG 2.1 AA as baseline" />
+<img src="https://img.shields.io/badge/stack-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Stack: Next.js" />
+<img src="https://img.shields.io/badge/UI-React-1a102f?style=for-the-badge&logo=react&logoColor=61dafb" alt="UI: React" />
+
+<br/><br/>
+
+<a href="https://www.Aljaoui.com"><b>Interactive lab</b></a>
+&nbsp;&#183;&nbsp;
+<a href="https://github.com/successfulfadwa?tab=repositories"><b>Repositories</b></a>
+&nbsp;&#183;&nbsp;
+<a href="https://www.linkedin.com/in/successfulfadwa"><b>LinkedIn</b></a>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,cs,git,vscode&perline=10" alt="Skill icons: React, Next.js, TypeScript, Tailwind, HTML, CSS, C#, Git, VS Code" />
+
+<br/><br/>
+
+### Contribution lattice
+
+<img src="https://raw.githubusercontent.com/successfulfadwa/successfulfadwa/main/assets/github-snake.gif" width="900" alt="Animated GIF: snake on GitHub contribution grid." />
 
 <details>
-<summary><strong>Scalable SVG</strong> (same animation, crisp on retina)</summary>
+<summary><b>Vector SVG</b> (same animation, sharp on retina)</summary>
 
-<div align="center">
-  <img src="assets/github-snake.svg" width="900" alt="Vector version of the contribution snake animation." />
-</div>
+<img src="https://raw.githubusercontent.com/successfulfadwa/successfulfadwa/main/assets/github-snake.svg" width="900" alt="SVG contribution snake animation." />
 
 </details>
+
+<sub>Snake is decorative motion. Prefer less motion? Use your OS <b>Reduce motion</b> and skip autoplaying experiences elsewhere.</sub>
+
+<br/>
+
+<a href="https://github.com/successfulfadwa/successfulfadwa/actions/workflows/snake.yml">Regenerate snake</a>
+&nbsp;&#183;&nbsp;
+<a href="https://www.Aljaoui.com">Full interactive experience &#8594;</a>
+
+<br/><br/>
 
 <p align="center">
-  <sub>Snake motion is decorative. Prefer less motion? Use your OS “Reduce motion” setting and skip autoplaying assets elsewhere on the web.</sub>
+  <code>Discover &#8594; Audit (WCAG 2.1 AA) &#8594; Design system &#8594; Ship (Next.js) &#8594; Measure &#8594; Compound</code>
 </p>
-
-<p align="center">
-  <a href="https://github.com/successfulfadwa/successfulfadwa/actions/workflows/snake.yml">Regenerate snake</a>
-  ·
-  <a href="https://www.Aljaoui.com">Full interactive experience ?</a>
-</p>
-
-<br />
-
-<p align="center">
-  <code>Discover ? Audit (WCAG 2.1 AA) ? Design system ? Ship (Next.js) ? Measure</code>
-</p>
-
-<details>
-<summary><strong>What I build</strong></summary>
-
-- **Profile & marketing sites** with disciplined typography, motion that respects `prefers-reduced-motion`, and components you can maintain.
-- **Accessibility remediation** on existing React / Next.js codebases, not just checkbox audits.
-- **Performance and clarity** so your practice or brand reads as premium the first second someone lands on the page.
-
-</details>
-
-<details>
-<summary><strong>Stack</strong></summary>
-
-| Layer        | Tools |
-| ------------ | ----- |
-| UI           | React, Next.js, TypeScript, Tailwind CSS |
-| Quality      | ESLint, accessible patterns, semantic HTML |
-| Beyond the web | C# where the product needs it |
-
-</details>
-
-<details>
-<summary><strong>Featured work</strong> <em>(pin these on your profile)</em></summary>
-
-| Repo | Idea |
-| ---- | ---- |
-| [`successfulfadwa.github.io`](https://github.com/successfulfadwa/successfulfadwa.github.io) | Personal / portfolio surface on GitHub Pages |
-| [`FilmLand1`](https://github.com/successfulfadwa/FilmLand1) | Front-end storytelling experiments |
-| [`so_long-42-school`](https://github.com/successfulfadwa/so_long-42-school) | Game / graphics foundations from 42 |
-| [`Mlnitalk`](https://github.com/successfulfadwa/Mlnitalk) | Low-level C exploration |
-
-Replace names if your pins differ — this table is a curated menu, not auto-synced to GitHub pins.
-
-</details>
-
-<details>
-<summary><strong>How to use this folder as your GitHub profile README</strong></summary>
-
-1. Create a **public** repository named **`successfulfadwa`** (must match your GitHub username exactly).
-2. Copy everything from this project into that repo (keep `README.md` at the root).
-3. Enable **Actions** for the repo, open **Generate contribution snake**, click **Run workflow** once so `assets/github-snake.svg` and `assets/github-snake.gif` are replaced with your real grid animation (a tiny placeholder GIF ships so the image is never broken before the first run).
-4. If your username is not `successfulfadwa`, change it in **README links**, the **komarev** `username=` query, and the **LinkedIn** URL. The workflow already uses `github.repository_owner` for the grid.
-5. Set your GitHub profile **Featured** repositories to match the table above if you want parity between pins and copy.
-
-</details>
 
 ---
 
+<details open>
+<summary><b>What I ship</b></summary>
+
+- **Revenue-grade marketing sites** for practices and brands: typography, spacing, and motion that feel expensive, not template-driven.
+- **Accessibility remediation** on real React / Next.js codebases: components, routing, forms, and media &#8212; not a PDF-only audit.
+- **Performance you can feel**: fewer layout shifts, faster LCP, clearer information hierarchy so patients and clients actually read the page.
+
+</details>
+
+<details>
+<summary><b>Operating stack</b></summary>
+
+| Layer | Tools |
+| --- | --- |
+| Product UI | React, Next.js, TypeScript, Tailwind CSS |
+| Quality | Semantic HTML, keyboard flows, ESLint, pragmatic tests |
+| Beyond the browser | C# when the product needs it |
+
+</details>
+
+<details>
+<summary><b>Featured repositories</b> (pin on your GitHub profile)</summary>
+
+| Repo | Note |
+| --- | --- |
+| [`successfulfadwa.github.io`](https://github.com/successfulfadwa/successfulfadwa.github.io) | Pages / portfolio surface |
+| [`FilmLand1`](https://github.com/successfulfadwa/FilmLand1) | Front-end storytelling |
+| [`so_long-42-school`](https://github.com/successfulfadwa/so_long-42-school) | 42 graphics / game foundations |
+| [`Mlnitalk`](https://github.com/successfulfadwa/Mlnitalk) | Low-level C experiments |
+
+</details>
+
+<details>
+<summary><b>Maintain this README</b></summary>
+
+1. Keep `assets/` in the same repo as this file (public `successfulfadwa` profile repo).
+2. Run **Actions &#8594; Generate contribution snake &#8594; Run workflow** after the first clone so GIF/SVG reflect your real grid.
+3. If you rename the GitHub account, replace `successfulfadwa` in this file&#8217;s `raw.githubusercontent.com` URLs and in links.
+
+</details>
+
+<br/>
+
 <div align="center">
-  <sub>Platinum AI · DFW · audits + builds · void · chrome · glow</sub>
+  <sub>Platinum AI &#183; DFW &#183; audits + builds &#183; void &#183; chrome &#183; glow</sub>
+</div>
+
 </div>
