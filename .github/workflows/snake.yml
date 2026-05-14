@@ -1,0 +1,41 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake (platinum palette, SVG + GIF)
+        uses: Platane/snk@v3.4.1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-snake.svg?palette=github-dark&color_snake=%23c4b5fd&color_dots=%230f0f14,%23181822,%23282834,%2344485c,%23e8e4ef
+            assets/github-snake.gif?palette=github-dark&color_snake=%23c4b5fd&color_dots=%230f0f14,%23181822,%23282834,%2344485c,%23e8e4ef
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-snake.svg assets/github-snake.gif
+          if git diff --staged --quiet; then
+            echo "No snake changes."
+          else
+            git commit -m "chore: update contribution snake (SVG + GIF) [skip ci]"
+            git push
+          fi
