@@ -2,7 +2,7 @@
 
 <!-- Verified image endpoints (HTTP 200) before commit. github-readme-stats.vercel.app currently returns 503 DEPLOYMENT_PAUSED; using github-readme-stats-sigma-five mirror for stats cards until upstream is available again. -->
 
-<img width="100%" src="./assets/header.svg" alt="Platinum AI Tech Group LLC ù chrome HUD header on deep field grid." />
+<img width="100%" src="./assets/header.svg" alt="Platinum AI Tech Group LLC - chrome HUD header on deep field grid." />
 
 <br/>
 
@@ -22,7 +22,7 @@
 <br/>
 
 ```
-Discover ? Audit (WCAG 2.1 AA) ? Design System ? Ship (Next.js) ? Measure ? Compound
+Discover -> Audit (WCAG 2.1 AA) -> Design System -> Ship (Next.js) -> Measure -> Compound
 ```
 
 <br/>
@@ -113,6 +113,12 @@ Discover ? Audit (WCAG 2.1 AA) ? Design System ? Ship (Next.js) ? Measure ? Comp
 </tr>
 </table>
 
+### Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=successfulfadwa&amp;bg_color=050505&amp;color=94a3b8&amp;line=e2e8f0&amp;point=cfd8e3&amp;area_color=e2e8f0&amp;area=true&amp;hide_border=false&amp;custom_title=Contribution%20Activity" alt="Yearly GitHub contribution activity graph for successfulfadwa." />
+
+<br/>
+
 <!-- Run .github/workflows/snake.yml once so the output branch exists; until then the SVG sources below may 404 and the fallback image will display. -->
 
 ### Contribution lattice
@@ -151,6 +157,6 @@ Discover ? Audit (WCAG 2.1 AA) ? Design System ? Ship (Next.js) ? Measure ? Comp
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:050505&height=100&section=footer&text=PLATINUM%20AI%20TECH%20GROUP%20LLC&fontSize=13&fontColor=64748b&animation=fadeIn" width="100%" alt="Footer capsule: Platinum AI Tech Group LLC" />
 
-<sub>Copyright ù 2026 PlatinumAI. All rights reserved.</sub>
+<sub>Copyright 2026 PlatinumAI. All rights reserved.</sub>
 
 </div>
