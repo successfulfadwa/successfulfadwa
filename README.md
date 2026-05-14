@@ -1,110 +1,156 @@
-<!-- Profile README: images use raw.githubusercontent.com so they render even if relative paths fail. -->
-
-<!-- PUBLIC_ASSET_BASE: https://raw.githubusercontent.com/successfulfadwa/successfulfadwa/main -->
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/successfulfadwa/successfulfadwa/main/assets/hero.svg" width="100%" alt="Platinum AI banner: void background, platinum chrome lines, liquid violet-cyan accents, tagline From dream to browser." />
+<!-- Verified image endpoints (HTTP 200) before commit. github-readme-stats.vercel.app currently returns 503 DEPLOYMENT_PAUSED; using github-readme-stats-sigma-five mirror for stats cards until upstream is available again. -->
+
+<img width="100%" src="./assets/header.svg" alt="Platinum AI Tech Group LLC ù chrome HUD header on deep field grid." />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=24&duration=3600&pause=900&color=C4B5FD&center=true&vCenter=true&multiline=true&width=1000&height=110&lines=Platinum+AI+%E2%80%94+engineering+elegance+at+the+edge+of+the+web.;Futuristic+interfaces+with+ADA+2.1+AA+as+a+floor%2C+not+an+afterthought.;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Tailwind+%C2%B7+C%23" alt="Animated typing: headline, accessibility, stack." />
-
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=17&duration=3200&pause=750&color=94A3B8&center=true&vCenter=true&multiline=true&width=1000&height=88&lines=Medical+%C2%B7+med+spa+%C2%B7+real+estate+%E2%80%94+premium+front+ends+that+convert.;WCAG+audits%2C+remediation%2C+design+systems%2C+and+shipping+to+production.;Select+DFW+%26+remote+partnerships." alt="Animated typing: verticals and services." />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&color=94A3B8&center=true&vCenter=true&multiline=true&width=680&height=200&pause=1000&duration=2800&lines=AI-powered+web+experiences.;Accessibility-first+engineering.+%E2%99%BF;Cinematic+frontend+systems.;Medical+%C2%B7+Med+Spa+%C2%B7+Real+Estate+%C2%B7+Enterprise;Dallas%2C+TX++%E2%80%94++Built+for+the+world." alt="Typing animation: positioning, accessibility, markets, and location." />
 
 <br/>
 
-<a href="https://github.com/successfulfadwa"><img src="https://komarev.com/ghpvc/?username=successfulfadwa&label=signal&labelColor=1a102f&color=c4b5fd&style=for-the-badge" alt="Profile visits badge" /></a>
-<img src="https://img.shields.io/badge/WCAG-2.1%20AA-floor-c4b5fd?style=for-the-badge&labelColor=1a102f" alt="WCAG 2.1 AA as baseline" />
-<img src="https://img.shields.io/badge/stack-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Stack: Next.js" />
-<img src="https://img.shields.io/badge/UI-React-1a102f?style=for-the-badge&logo=react&logoColor=61dafb" alt="UI: React" />
+<a href="https://platinum-ai.co"><img src="https://img.shields.io/badge/platinum--ai.co-Visit%20Site-0f172a?style=for-the-badge&logo=vercel&logoColor=e2e8f0" alt="Visit platinum-ai.co" /></a>
+<a href="https://www.linkedin.com/in/fadwa-aljaoui"><img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=e2e8f0" alt="Connect on LinkedIn" /></a>
+<img src="https://img.shields.io/badge/WCAG%202.1%20AA-Compliant-0f172a?style=for-the-badge&logoColor=e2e8f0" alt="WCAG 2.1 AA compliant engineering" />
+<img src="https://img.shields.io/badge/Wyoming%20LLC-Active%202026-0f172a?style=for-the-badge&logoColor=e2e8f0" alt="Wyoming LLC active 2026" />
 
-<br/><br/>
+<br/>
 
-<a href="https://www.Aljaoui.com"><b>Interactive lab</b></a>
-&nbsp;&#183;&nbsp;
-<a href="https://github.com/successfulfadwa?tab=repositories"><b>Repositories</b></a>
-&nbsp;&#183;&nbsp;
-<a href="https://www.linkedin.com/in/successfulfadwa"><b>LinkedIn</b></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Thin animated divider" />
 
-<br/><br/>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,cs,git,vscode&perline=10" alt="Skill icons: React, Next.js, TypeScript, Tailwind, HTML, CSS, C#, Git, VS Code" />
+```
+Discover ? Audit (WCAG 2.1 AA) ? Design System ? Ship (Next.js) ? Measure ? Compound
+```
 
-<br/><br/>
+<br/>
+
+### Featured systems
+
+<table>
+<tr valign="top">
+<td width="50%">
+
+<h3>&#129302; Platinum AI</h3>
+<p><b>Autonomous-grade marketing surfaces.</b></p>
+<p>Precision layouts, cinematic motion where it earns its keep, and instrumentation that proves what shipped.</p>
+<p>
+<img src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=e2e8f0" alt="Next.js" />
+<img src="https://img.shields.io/badge/Three.js-0f172a?style=flat-square&logo=threedotjs&logoColor=e2e8f0" alt="Three.js" />
+<img src="https://img.shields.io/badge/OpenAI-0f172a?style=flat-square&logo=openai&logoColor=e2e8f0" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Framer%20Motion-0f172a?style=flat-square&logo=framer&logoColor=e2e8f0" alt="Framer Motion" />
+</p>
+
+</td>
+<td width="50%">
+
+<h3>&#9855; Accessibility audit system</h3>
+<p><b>Evidence-backed WCAG programs.</b></p>
+<p>Repeatable axe + Lighthouse pipelines, human review on critical journeys, and client-ready reporting.</p>
+<p>
+<img src="https://img.shields.io/badge/WCAG-0f172a?style=flat-square&logoColor=e2e8f0" alt="WCAG" />
+<img src="https://img.shields.io/badge/axe--core-0f172a?style=flat-square&logo=Deque&logoColor=e2e8f0" alt="axe-core" />
+<img src="https://img.shields.io/badge/Lighthouse-0f172a?style=flat-square&logo=lighthouse&logoColor=e2e8f0" alt="Lighthouse" />
+<img src="https://img.shields.io/badge/AI%20Reports-0f172a?style=flat-square&logoColor=e2e8f0" alt="AI reports" />
+</p>
+
+</td>
+</tr>
+<tr valign="top">
+<td width="50%">
+
+<h3>&#127968; Real estate visualization lab</h3>
+<p><b>Spatial clarity on the web.</b></p>
+<p>WebGL-first scenes with disciplined performance budgets so listings feel tangible, not gimmicky.</p>
+<p>
+<img src="https://img.shields.io/badge/WebGL-0f172a?style=flat-square&logo=webgl&logoColor=e2e8f0" alt="WebGL" />
+<img src="https://img.shields.io/badge/Three.js-0f172a?style=flat-square&logo=threedotjs&logoColor=e2e8f0" alt="Three.js" />
+<img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=e2e8f0" alt="React" />
+<img src="https://img.shields.io/badge/AI-0f172a?style=flat-square&logoColor=e2e8f0" alt="AI" />
+</p>
+
+</td>
+<td width="50%">
+
+<h3>&#127973; MedTech UX systems</h3>
+<p><b>Clinical-grade interaction design.</b></p>
+<p>ARIA-first components, predictable keyboard flows, and documentation your compliance team can defend.</p>
+<p>
+<img src="https://img.shields.io/badge/Healthcare%20UX-0f172a?style=flat-square&logoColor=e2e8f0" alt="Healthcare UX" />
+<img src="https://img.shields.io/badge/ARIA-0f172a?style=flat-square&logo=w3c&logoColor=e2e8f0" alt="ARIA" />
+<img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=e2e8f0" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=e2e8f0" alt="Tailwind CSS" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### Toolchain
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,figma,python,docker,aws,git,vscode,cs&perline=6&theme=dark" alt="TypeScript, React, Next.js, Tailwind, Node, Figma, Python, Docker, AWS, Git, VS Code, C#" />
+
+<br/>
+
+### Signals
+
+<!-- Stats mirror verified 200 while github-readme-stats.vercel.app is paused (503). -->
+
+<table>
+<tr>
+<td align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=successfulfadwa&show_icons=true&bg_color=050505&title_color=e2e8f0&text_color=94a3b8&icon_color=cbd5e1&border_color=1e293b&hide_border=false&cache_seconds=86400" alt="GitHub stats for successfulfadwa" /></td>
+<td align="center"><img src="https://streak-stats.demolab.com/?user=successfulfadwa&background=050505&ring=1e293b&currStreakLabel=e2e8f0&sideLabels=94a3b8&currStreakNum=e2e8f0&fire=cbd5e1&border=1e293b" alt="GitHub streak stats for successfulfadwa" /></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=successfulfadwa&layout=compact&bg_color=050505&title_color=e2e8f0&text_color=94a3b8&icon_color=cbd5e1&border_color=1e293b&hide_border=false&cache_seconds=86400" alt="Top languages for successfulfadwa" /></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="https://github-profile-trophy.vercel.app/?username=successfulfadwa&theme=flat&no-frame=true&margin-w=4&row=2" alt="GitHub profile trophies for successfulfadwa" /></td>
+</tr>
+</table>
+
+<!-- Run .github/workflows/snake.yml once so the output branch exists; until then the SVG sources below may 404 and the fallback image will display. -->
 
 ### Contribution lattice
 
-<img src="https://raw.githubusercontent.com/successfulfadwa/successfulfadwa/main/assets/github-snake.gif" width="900" alt="Animated GIF: snake on GitHub contribution grid." />
-
-<details>
-<summary><b>Vector SVG</b> (same animation, sharp on retina)</summary>
-
-<img src="https://raw.githubusercontent.com/successfulfadwa/successfulfadwa/main/assets/github-snake.svg" width="900" alt="SVG contribution snake animation." />
-
-</details>
-
-<sub>Snake is decorative motion. Prefer less motion? Use your OS <b>Reduce motion</b> and skip autoplaying experiences elsewhere.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/successfulfadwa/successfulfadwa/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/successfulfadwa/successfulfadwa/output/github-contribution-grid-snake.svg" />
+  <img src="./assets/snake-fallback.svg" width="900" alt="GitHub contribution graph placeholder until snake SVGs are published to the output branch." />
+</picture>
 
 <br/>
 
-<a href="https://github.com/successfulfadwa/successfulfadwa/actions/workflows/snake.yml">Regenerate snake</a>
-&nbsp;&#183;&nbsp;
-<a href="https://www.Aljaoui.com">Full interactive experience &#8594;</a>
+### Connect
+
+<table>
+<tr>
+<th align="center">Website</th>
+<th align="center">LinkedIn</th>
+<th align="center">Email</th>
+<th align="center">Calendar</th>
+</tr>
+<tr>
+<td align="center"><a href="https://platinum-ai.co">platinum-ai.co</a></td>
+<td align="center"><a href="https://www.linkedin.com/in/fadwa-aljaoui">fadwa-aljaoui</a></td>
+<td align="center"><a href="mailto:hello@aljaoui.com">hello@aljaoui.com</a></td>
+<td align="center"><a href="https://platinum-ai.co">Book a call</a></td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://platinum-ai.co"><img src="https://img.shields.io/badge/ENTER%20THE%20EXPERIENCE-%E2%86%92-0f172a?style=for-the-badge&logoColor=e2e8f0" alt="Enter the experience" /></a>
+<a href="https://platinum-ai.co"><img src="https://img.shields.io/badge/BOOK%20A%20CALL-Schedule-0f172a?style=for-the-badge&logoColor=e2e8f0" alt="Book a call" /></a>
 
 <br/><br/>
 
-<p align="center">
-  <code>Discover &#8594; Audit (WCAG 2.1 AA) &#8594; Design system &#8594; Ship (Next.js) &#8594; Measure &#8594; Compound</code>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:050505&height=100&section=footer&text=PLATINUM%20AI%20TECH%20GROUP%20LLC&fontSize=13&fontColor=64748b&animation=fadeIn" width="100%" alt="Footer capsule: Platinum AI Tech Group LLC" />
 
----
-
-<details open>
-<summary><b>What I ship</b></summary>
-
-- **Revenue-grade marketing sites** for practices and brands: typography, spacing, and motion that feel expensive, not template-driven.
-- **Accessibility remediation** on real React / Next.js codebases: components, routing, forms, and media &#8212; not a PDF-only audit.
-- **Performance you can feel**: fewer layout shifts, faster LCP, clearer information hierarchy so patients and clients actually read the page.
-
-</details>
-
-<details>
-<summary><b>Operating stack</b></summary>
-
-| Layer | Tools |
-| --- | --- |
-| Product UI | React, Next.js, TypeScript, Tailwind CSS |
-| Quality | Semantic HTML, keyboard flows, ESLint, pragmatic tests |
-| Beyond the browser | C# when the product needs it |
-
-</details>
-
-<details>
-<summary><b>Featured repositories</b> (pin on your GitHub profile)</summary>
-
-| Repo | Note |
-| --- | --- |
-| [`successfulfadwa.github.io`](https://github.com/successfulfadwa/successfulfadwa.github.io) | Pages / portfolio surface |
-| [`FilmLand1`](https://github.com/successfulfadwa/FilmLand1) | Front-end storytelling |
-| [`so_long-42-school`](https://github.com/successfulfadwa/so_long-42-school) | 42 graphics / game foundations |
-| [`Mlnitalk`](https://github.com/successfulfadwa/Mlnitalk) | Low-level C experiments |
-
-</details>
-
-<details>
-<summary><b>Maintain this README</b></summary>
-
-1. Keep `assets/` in the same repo as this file (public `successfulfadwa` profile repo).
-2. Run **Actions &#8594; Generate contribution snake &#8594; Run workflow** after the first clone so GIF/SVG reflect your real grid.
-3. If you rename the GitHub account, replace `successfulfadwa` in this file&#8217;s `raw.githubusercontent.com` URLs and in links.
-
-</details>
-
-<br/>
-
-<div align="center">
-  <sub>Platinum AI &#183; DFW &#183; audits + builds &#183; void &#183; chrome &#183; glow</sub>
-</div>
+<sub>Copyright ù 2026 PlatinumAI. All rights reserved.</sub>
 
 </div>

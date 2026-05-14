@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200" role="img" aria-labelledby="sfT sfD">
+  <title id="sfT">Contribution graph placeholder</title>
+  <desc id="sfD">Run the snake workflow to publish SVGs to the output branch.</desc>
+  <defs>
+    <linearGradient id="sbg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="100%" stop-color="#0a0a0f"/>
+    </linearGradient>
+    <linearGradient id="sline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e293b" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#64748b" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#1e293b" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#sbg)" rx="12" stroke="rgba(226,232,240,0.12)" stroke-width="1"/>
+  <path d="M40 100 H860" stroke="url(#sline)" stroke-width="1"/>
+  <text x="450" y="88" text-anchor="middle" fill="#e2e8f0" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="14" font-weight="700" letter-spacing="0.18em">CONTRIBUTION LATTICE</text>
+  <text x="450" y="118" text-anchor="middle" fill="#94a3b8" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12" letter-spacing="0.08em">Publish snake SVGs to branch output</text>
+  <text x="450" y="142" text-anchor="middle" fill="#64748b" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11">Actions: Generate contribution snake</text>
+  <path d="M48 48h22M48 48v22M852 48h-22M852 48v22M48 152h22M48 152v-22M852 152h-22M852 152v-22" fill="none" stroke="#475569" stroke-width="1.5" opacity="0.55"/>
+</svg>
